@@ -1,7 +1,10 @@
 To build project
-
-- npx lerna run build
-
+``` bash
+npx lerna run build
+```
 To run project
 
-- 
+``` bash
+npm run client-uniform
+```
+
