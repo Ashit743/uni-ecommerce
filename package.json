@@ -9,6 +9,7 @@
     "lerna": "^8.1.8"
   },
   "scripts":{
-    "client-uniform": "cd packages/package-uniform && npm run dev"
+    "client-uniform": "cd packages/package-uniform && npm run dev",
+    "client-uniform-test": "cd packages/package-uniform && npm run test"
   }
 }
