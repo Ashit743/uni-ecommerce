@@ -9,8 +9,8 @@ npm run client-uniform
 
 ```
 
-To run client tests
+To run client test
 
 ```bash
-npx lerna run test
+npx lerna run test 
 ```
